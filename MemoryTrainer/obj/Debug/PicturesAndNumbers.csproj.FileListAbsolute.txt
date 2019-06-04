@@ -1,0 +1,14 @@
+E:\Дима учеба\программирование\WPF\PicturesAndNumbers\PicturesAndNumbers\bin\Debug\PicturesAndNumbers.exe.config
+E:\Дима учеба\программирование\WPF\PicturesAndNumbers\PicturesAndNumbers\bin\Debug\PicturesAndNumbers.exe
+E:\Дима учеба\программирование\WPF\PicturesAndNumbers\PicturesAndNumbers\bin\Debug\PicturesAndNumbers.pdb
+E:\Дима учеба\программирование\WPF\PicturesAndNumbers\PicturesAndNumbers\obj\Debug\PicturesAndNumbers.csprojResolveAssemblyReference.cache
+E:\Дима учеба\программирование\WPF\PicturesAndNumbers\PicturesAndNumbers\obj\Debug\MainWindow.baml
+E:\Дима учеба\программирование\WPF\PicturesAndNumbers\PicturesAndNumbers\obj\Debug\MainWindow.g.cs
+E:\Дима учеба\программирование\WPF\PicturesAndNumbers\PicturesAndNumbers\obj\Debug\App.g.cs
+E:\Дима учеба\программирование\WPF\PicturesAndNumbers\PicturesAndNumbers\obj\Debug\PicturesAndNumbers_MarkupCompile.cache
+E:\Дима учеба\программирование\WPF\PicturesAndNumbers\PicturesAndNumbers\obj\Debug\PicturesAndNumbers.g.resources
+E:\Дима учеба\программирование\WPF\PicturesAndNumbers\PicturesAndNumbers\obj\Debug\PicturesAndNumbers.Properties.Resources.resources
+E:\Дима учеба\программирование\WPF\PicturesAndNumbers\PicturesAndNumbers\obj\Debug\PicturesAndNumbers.csproj.GenerateResource.Cache
+E:\Дима учеба\программирование\WPF\PicturesAndNumbers\PicturesAndNumbers\obj\Debug\PicturesAndNumbers.exe
+E:\Дима учеба\программирование\WPF\PicturesAndNumbers\PicturesAndNumbers\obj\Debug\PicturesAndNumbers.pdb
+E:\Дима учеба\программирование\WPF\PicturesAndNumbers\PicturesAndNumbers\obj\Debug\PicturesAndNumbers.csproj.CoreCompileInputs.cache

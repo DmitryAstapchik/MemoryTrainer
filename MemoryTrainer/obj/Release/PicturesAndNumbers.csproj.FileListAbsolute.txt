@@ -1,0 +1,12 @@
+E:\Дима учеба\программирование\WPF\PicturesAndNumbers\PicturesAndNumbers\bin\Release\PicturesAndNumbers.exe.config
+E:\Дима учеба\программирование\WPF\PicturesAndNumbers\PicturesAndNumbers\bin\Release\PicturesAndNumbers.exe
+E:\Дима учеба\программирование\WPF\PicturesAndNumbers\PicturesAndNumbers\bin\Release\PicturesAndNumbers.pdb
+E:\Дима учеба\программирование\WPF\PicturesAndNumbers\PicturesAndNumbers\obj\Release\MainWindow.baml
+E:\Дима учеба\программирование\WPF\PicturesAndNumbers\PicturesAndNumbers\obj\Release\MainWindow.g.cs
+E:\Дима учеба\программирование\WPF\PicturesAndNumbers\PicturesAndNumbers\obj\Release\App.g.cs
+E:\Дима учеба\программирование\WPF\PicturesAndNumbers\PicturesAndNumbers\obj\Release\PicturesAndNumbers_MarkupCompile.cache
+E:\Дима учеба\программирование\WPF\PicturesAndNumbers\PicturesAndNumbers\obj\Release\PicturesAndNumbers.g.resources
+E:\Дима учеба\программирование\WPF\PicturesAndNumbers\PicturesAndNumbers\obj\Release\PicturesAndNumbers.Properties.Resources.resources
+E:\Дима учеба\программирование\WPF\PicturesAndNumbers\PicturesAndNumbers\obj\Release\PicturesAndNumbers.csproj.GenerateResource.Cache
+E:\Дима учеба\программирование\WPF\PicturesAndNumbers\PicturesAndNumbers\obj\Release\PicturesAndNumbers.exe
+E:\Дима учеба\программирование\WPF\PicturesAndNumbers\PicturesAndNumbers\obj\Release\PicturesAndNumbers.pdb

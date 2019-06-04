@@ -1,0 +1,14 @@
+E:\Studying\programming\WPF\MemoryTrainer\MemoryTrainer\obj\Debug\MainWindow.baml
+E:\Studying\programming\WPF\MemoryTrainer\MemoryTrainer\obj\Debug\MainWindow.g.cs
+E:\Studying\programming\WPF\MemoryTrainer\MemoryTrainer\obj\Debug\App.g.cs
+E:\Studying\programming\WPF\MemoryTrainer\MemoryTrainer\obj\Debug\MemoryTrainer.csproj.GenerateResource.cache
+E:\Studying\programming\WPF\MemoryTrainer\MemoryTrainer\obj\Debug\MemoryTrainer.csproj.CoreCompileInputs.cache
+E:\Studying\programming\WPF\MemoryTrainer\MemoryTrainer\obj\Debug\MemoryTrainer.csprojAssemblyReference.cache
+E:\Studying\programming\WPF\MemoryTrainer\MemoryTrainer\bin\Debug\MemoryTrainer.exe.config
+E:\Studying\programming\WPF\MemoryTrainer\MemoryTrainer\bin\Debug\MemoryTrainer.exe
+E:\Studying\programming\WPF\MemoryTrainer\MemoryTrainer\bin\Debug\MemoryTrainer.pdb
+E:\Studying\programming\WPF\MemoryTrainer\MemoryTrainer\obj\Debug\MemoryTrainer_MarkupCompile.cache
+E:\Studying\programming\WPF\MemoryTrainer\MemoryTrainer\obj\Debug\MemoryTrainer.g.resources
+E:\Studying\programming\WPF\MemoryTrainer\MemoryTrainer\obj\Debug\MemoryTrainer.Properties.Resources.resources
+E:\Studying\programming\WPF\MemoryTrainer\MemoryTrainer\obj\Debug\MemoryTrainer.exe
+E:\Studying\programming\WPF\MemoryTrainer\MemoryTrainer\obj\Debug\MemoryTrainer.pdb
